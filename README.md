@@ -26,7 +26,7 @@ To run this project, you will need:
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/yourusername/weather-finder-react.git
+    git clone https://github.com/vijay-kumar-79/weather-finder-react.git
     ```
 2. Navigate to the project directory:
     ```sh
